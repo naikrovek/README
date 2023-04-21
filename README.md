@@ -7,7 +7,7 @@ Make sure that you have:
 * [ ]  noted in your message what you’ve tried
 * [ ]  avoided the ‘[XY problem](https://xyproblem.info/)’ by clearly detailing the core problem, X
 * [ ]  provided specifics of your issue, not vague references or descriptions
-* [ ]  provided URL links to relevant content, and where possible the content at the URL won't change
+* [ ]  provided URL links to relevant content
 * [ ]  **NOT** included screenshots of text in your message. (screenshots are not searchable)
 * [ ]  not used obscure acronyms or abbreviations
 * [ ]  formatted my message well, particularly paying attention to code formatting and headings
