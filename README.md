@@ -10,7 +10,7 @@ Make sure that you have:
 * [ ]  provided URL links to relevant content
 * [ ]  **NOT** included screenshots of text in your message. (screenshots are not searchable)
 * [ ]  not used obscure acronyms or abbreviations
-* [ ]  formatted my message well, particularly paying attention to code formatting and headings
+* [ ]  formatted your message well, particularly paying attention to code formatting and headings
 * [ ]  not just said “hi” and waited for a reply
 
 Adapted from: [https://thundergolfer.com/communication/slack/2021/02/24/how-to-ask-for-help-in-slack/](https://thundergolfer.com/communication/slack/2021/02/24/how-to-ask-for-help-in-slack/)
